@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.box-1{
+    float: left;
+    width: 50%;
+    height: 100vh;
+    padding-top: 212px;
+    text-align: center;
+    background-color: chartreuse;
+}
+.box-2{
+    padding-top: 212px;
+    float: left;
+    width: 50%;
+    text-align: center;
+    background-color:chocolate;
+    height: 100vh;
+}
+.box-2 h2{
+    font-size: 40px;
+    font-family: 'Peddana', serif;
+    color: darkolivegreen;
+}
+.box-2 input{
+    padding: 5px 10 px; 
+    margin: 10px 0;
+    width: 50%;
+    color: darkred;
+    font-size: 18px;
+    border-radius: 15px;
+    border: 1px solid darksalmon;
+}
+.box-2 button{
+    padding: 5px 15px;
+background-color: dodgerblue;
+border-radius: 15px;
+border: none;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+color: floralwhite;
+}
